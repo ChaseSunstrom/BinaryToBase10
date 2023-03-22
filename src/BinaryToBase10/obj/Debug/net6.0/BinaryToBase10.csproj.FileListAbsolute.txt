@@ -1,0 +1,15 @@
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\bin\Debug\net6.0\BinaryToBase10.exe
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\bin\Debug\net6.0\BinaryToBase10.deps.json
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\bin\Debug\net6.0\BinaryToBase10.runtimeconfig.json
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\bin\Debug\net6.0\BinaryToBase10.dll
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\bin\Debug\net6.0\BinaryToBase10.pdb
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\obj\Debug\net6.0\BinaryToBase10.csproj.AssemblyReference.cache
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\obj\Debug\net6.0\BinaryToBase10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\obj\Debug\net6.0\BinaryToBase10.AssemblyInfoInputs.cache
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\obj\Debug\net6.0\BinaryToBase10.AssemblyInfo.cs
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\obj\Debug\net6.0\BinaryToBase10.csproj.CoreCompileInputs.cache
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\obj\Debug\net6.0\BinaryToBase10.dll
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\obj\Debug\net6.0\refint\BinaryToBase10.dll
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\obj\Debug\net6.0\BinaryToBase10.pdb
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\obj\Debug\net6.0\BinaryToBase10.genruntimeconfig.cache
+C:\Users\casun\RiderProjects\BinaryToBase10\src\BinaryToBase10\obj\Debug\net6.0\ref\BinaryToBase10.dll
